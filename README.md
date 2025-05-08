@@ -100,19 +100,3 @@ Even though Random Forest had lower accuracy overall, it correctly classified a 
 - **Flexibility**: Random Forest handles subtle sentiment better but can overfit.
 
 These models can be deployed in content moderation systems, customer feedback monitoring dashboards, or even integrated into chatbot assistants to understand user emotion in real time.
-
----
-
-## How to Run the Code
-
-1. Clone this repository
-2. Place `imdb.csv` in a folder called `data/`
-3. Run the notebook or script top to bottom
-4. Modify the `new_reviews` list at the end to try your own samples
-
----
-
-## Author
-
-This capstone project was developed by Yogesh as part of a machine learning coursework, showcasing practical use of classification models for real-world sentiment analysis.
-
